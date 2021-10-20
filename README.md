@@ -1,3 +1,4 @@
 # AUTOMATA-PARA-EL-PROCESAMIENTO-DE-LA-ELABORACI-N-DEL-WHISKY
 AUTOMATA PARA EL PROCESAMIENTO DE LA ELABORACIÓN DEL WHISKY
- https://www.youtube.com/watch?v=IRIZvVj2wss
+video  explicacion del automata 
+ https://www.youtube.com/watch?v=IRIZvVj2ws
